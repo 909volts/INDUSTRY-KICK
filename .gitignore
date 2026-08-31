@@ -1,0 +1,34 @@
+# build artifacts
+build/
+Builds/
+Binaries/
+cmake-build-*/
+out/
+dist/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+DerivedData/
+*.user
+*.suo
+
+# binaries
+*.exe
+*.dll
+*.dylib
+*.so
+*.vst3
+*.au
+*.aaxplugin
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# JUCE locale (troppo pesante; dimmi solo la versione)
+JUCE/probe_build/
+Stage71TestRenders/

@@ -1,0 +1,7 @@
+MSVC FTZ mode 1: PASS
+non-MSVC FTZ mode 2: PASS
+no hardcoded -ftz 2 command: PASS
+MapUI public enumeration: PASS
+old getMap removed from engine: PASS
+gate removes stale header: PASS
+gate version bumped: PASS

@@ -1,0 +1,24 @@
+﻿INDUSTRY KICK â€” FINAL DAW REGRESSION CHECKLIST
+
+Run after the final GUI is integrated.
+
+[ ] DAW scans VST3 without error
+[ ] Instantiate/remove repeatedly without crash
+[ ] Audio output at 44.1 kHz
+[ ] Audio output at 48 kHz
+[ ] Audio output at 96 kHz
+[ ] Small/medium/large buffer test
+[ ] Preset change while stopped
+[ ] Preset change while playing
+[ ] Parameter automation
+[ ] Save project / close / reopen / state recall
+[ ] Bypass behavior
+[ ] Silence input / extreme parameter values
+[ ] Rapid parameter stress
+[ ] Multiple plugin instances
+[ ] Remove plugin while transport is running
+[ ] CPU/memory sanity
+[ ] No NaN/Inf, runaway tail or unexpected safety clipping
+[ ] Final five approved-family anchor listening regression
+
+Record each item only as PASS / FAIL / NOT TESTED.

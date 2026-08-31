@@ -1,0 +1,7 @@
+case,earlier_rms,final_rms,final_db,decay_drop_db,numerical_silence,pass,expected
+normal_decay,0.001,1e-05,-100.0,40.0,False,True,True
+persistent_tail,0.0001,0.0001,-80.0,0.0,False,False,False
+rising_tail,1e-06,0.0001,-80.0,-40.0,False,False,False
+exact_zero,0.0,0.0,-300.0,0.0,True,True,True
+numerical_floor,1e-13,1e-13,-260.0,0.0,True,True,True
+zero_then_signal,0.0,1e-06,-120.0,-180.0,False,False,False

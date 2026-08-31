@@ -1,0 +1,80 @@
+909VOLTS INDUSTRY KICK END USER LICENSE AGREEMENT
+DRAFT FOR LEGAL REVIEW BEFORE COMMERCIAL RELEASE
+Version 1.0 - 14 August 2026
+
+IMPORTANT: This document is a commercial drafting template. Before selling INDUSTRY KICK, 909VOLTS should insert its legal entity name, business address, support contact, governing law, refund terms and store-specific terms, then obtain advice from a qualified lawyer in the territories where the product will be sold.
+
+1. PARTIES AND ACCEPTANCE
+This End User License Agreement (the "Agreement") is between 909VOLTS (the "Licensor") and the individual or legal entity that downloads, installs, purchases or uses INDUSTRY KICK (the "Licensee"). By installing or using the Software, the Licensee accepts this Agreement. If the Licensee does not accept it, the Software must not be installed or used.
+
+2. SOFTWARE
+"Software" means the INDUSTRY KICK audio plug-in, installer, factory presets, embedded impulse responses, documentation, updates supplied under the same licence and any accompanying files provided by 909VOLTS.
+
+3. LICENCE GRANT
+Subject to payment of the applicable fee and compliance with this Agreement, 909VOLTS grants the Licensee a limited, non-exclusive, non-transferable and revocable licence to:
+
+a. install and use the Software on up to three computers owned or controlled by the Licensee;
+b. use the Software in personal and commercial music, film, game, broadcast, performance and client productions;
+c. render audio from the Software and distribute that audio when it forms part of an original musical or audiovisual work; and
+d. make reasonable backup copies for the Licensee's own use.
+
+A single-user licence may not be shared by multiple people. A company, school or studio requiring access for multiple users must obtain an appropriate multi-user licence from 909VOLTS.
+
+4. OWNERSHIP
+The Software is licensed, not sold. 909VOLTS and its licensors retain all rights, title and interest in the Software, including its code, interface, graphics, factory presets, impulse responses, documentation, trademarks and other intellectual property. No ownership rights are transferred to the Licensee.
+
+5. MUSICAL OUTPUT
+The Licensee may commercially release original music and audiovisual productions made with the Software without paying additional royalties to 909VOLTS. The Licensee owns their original composition and production, subject to any third-party rights in other material used.
+
+The Licensee may not redistribute, sell, sublicense or publish factory presets, embedded impulse responses, substantially unchanged isolated factory sounds, or a sample library whose principal value is the extraction or reproduction of INDUSTRY KICK factory content. Heavily transformed sound design incorporated into a genuinely original production is permitted.
+
+6. PROHIBITED USES
+The Licensee must not:
+
+a. copy, share, upload, rent, lease, lend, sublicense or resell the Software or licence key except where mandatory law permits a transfer;
+b. reverse engineer, decompile, disassemble, modify or create derivative software except to the limited extent expressly permitted by mandatory law;
+c. bypass or interfere with licensing, copy-protection or security measures;
+d. extract or redistribute the embedded impulse responses, graphics, presets or other assets;
+e. use the Software or its factory content to train, fine-tune, evaluate or populate a machine-learning or generative-AI dataset without prior written permission from 909VOLTS;
+f. use the name, logo or branding of 909VOLTS in a way that implies sponsorship or endorsement; or
+g. use the Software unlawfully or to infringe third-party rights.
+
+7. UPDATES AND COMPATIBILITY
+909VOLTS may provide fixes, updates or upgrades at its discretion. Unless expressly promised at purchase, continued compatibility with every operating system, host, plug-in format or third-party product is not guaranteed. Material paid upgrades may require a separate fee.
+
+8. SUPPORT
+Support is provided through the contact method published by 909VOLTS. The Licensee may be asked for proof of purchase, system information and reproducible diagnostic details. Support does not include third-party hardware, operating systems, DAWs or plug-ins.
+
+9. PRIVACY AND CONNECTIVITY
+The current version of INDUSTRY KICK does not require network access and does not include telemetry. If future licensing or online services process personal data, 909VOLTS will provide a separate privacy notice describing that processing before it begins.
+
+10. WARRANTY DISCLAIMER
+To the maximum extent permitted by law, the Software is supplied "as is" and "as available". 909VOLTS does not guarantee uninterrupted or error-free operation or suitability for a particular production. The Licensee is responsible for backups, gain staging, hearing-safe monitoring and testing the Software in their own environment.
+
+11. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, 909VOLTS will not be liable for indirect, incidental, special or consequential loss, loss of profit, loss of data, loss of opportunity or production downtime arising from use of the Software. Where liability cannot lawfully be excluded, the total aggregate liability of 909VOLTS will not exceed the amount paid by the Licensee for the Software in the twelve months preceding the claim.
+
+Nothing in this Agreement excludes or limits liability that cannot legally be excluded, including applicable mandatory consumer rights.
+
+12. TERMINATION
+This Agreement terminates automatically if the Licensee materially breaches it. On termination, the Licensee must stop using the Software and delete all copies. Rights already granted for compliant musical works released before termination remain unaffected.
+
+13. EXPORT AND SANCTIONS COMPLIANCE
+The Licensee must comply with applicable export-control, sanctions and trade laws when obtaining or using the Software.
+
+14. CHANGES TO THIS AGREEMENT
+Any revised terms will apply prospectively to future versions or services and will not remove rights already granted for a fully paid version unless required by law or expressly agreed by the Licensee.
+
+15. GOVERNING LAW AND DISPUTES
+[INSERT THE GOVERNING LAW, COURTS, BUSINESS ADDRESS AND ANY REQUIRED CONSUMER DISPUTE OR ADR INFORMATION BEFORE RELEASE.]
+
+16. GENERAL
+If a provision is unenforceable, it will be limited or removed only to the minimum extent necessary and the remainder will continue in effect. Failure to enforce a provision is not a waiver. This Agreement, the order confirmation and any mandatory store terms form the entire agreement concerning the Software.
+
+17. CONTACT
+909VOLTS
+[INSERT LEGAL ENTITY NAME]
+[INSERT BUSINESS ADDRESS]
+[INSERT SUPPORT EMAIL AND WEBSITE]
+
+Copyright 2026 909VOLTS. All rights reserved.

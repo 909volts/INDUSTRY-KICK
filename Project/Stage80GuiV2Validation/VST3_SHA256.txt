@@ -1,0 +1,3 @@
+SHA256 hash of E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_artefacts\Release\VST3\INDUSTRY KICK.vst3\Contents\x86_64-win\INDUSTRY KICK.vst3:
+264f24ed4b7b3565df0e55c155e00ef07626f2ee0b54ffa4e7e541197b31551f
+CertUtil: -hashfile command completed successfully.

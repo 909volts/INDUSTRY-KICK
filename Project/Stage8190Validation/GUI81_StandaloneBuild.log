@@ -1,0 +1,14 @@
+MSBuild version 17.14.51+25f168cee for .NET Framework
+
+  Checking File Globs
+  1>Checking Build System
+  Building Custom Rule E:/909Volts/Vsts/INDUSTRY KICK 1.0 by 909Volts/Project/CMakeLists.txt
+  KICKCRAFTER_rc_lib.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_rc_lib.dir\Release\KICKCRAFTER_rc_lib.lib
+  Building Custom Rule E:/909Volts/Vsts/INDUSTRY KICK 1.0 by 909Volts/Project/CMakeLists.txt
+  Generating juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData1.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData2.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData3.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData4.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData5.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData6.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData7.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData8.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData9.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData10.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData11.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData12.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData13.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData14.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData15.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData16.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData17.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData18.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData19.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData20.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData21.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData22.cpp, juce_binarydata_KICKCRAFTERAssets/JuceLibraryCode/BinaryData.h
+  Building Custom Rule E:/909Volts/Vsts/INDUSTRY KICK 1.0 by 909Volts/Project/CMakeLists.txt
+  KICKCRAFTERAssets.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\Release\KICKCRAFTERAssets.lib
+  Building Custom Rule E:/909Volts/Vsts/INDUSTRY KICK 1.0 by 909Volts/Project/CMakeLists.txt
+  KICKCRAFTER.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_artefacts\Release\INDUSTRY KICK_SharedCode.lib
+  Building Custom Rule E:/909Volts/Vsts/INDUSTRY KICK 1.0 by 909Volts/Project/CMakeLists.txt
+  KICKCRAFTER_Standalone.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_artefacts\Release\Standalone\INDUSTRY KICK.exe

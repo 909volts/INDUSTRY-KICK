@@ -1,0 +1,17 @@
+INDUSTRY KICK - FINAL DAW REGRESSION CHECKLIST
+
+Run after final GUI integration.
+
+[ ] DAW scan
+[ ] Instantiate/remove repeatedly
+[ ] 44.1 / 48 / 96 kHz
+[ ] Small / medium / large buffers
+[ ] Preset changes stopped and playing
+[ ] Automation
+[ ] Save / close / reopen / state recall
+[ ] Bypass
+[ ] Silence and extreme parameters
+[ ] Rapid parameter stress
+[ ] Multiple instances
+[ ] CPU / memory sanity
+[ ] Final five approved anchors listening regression

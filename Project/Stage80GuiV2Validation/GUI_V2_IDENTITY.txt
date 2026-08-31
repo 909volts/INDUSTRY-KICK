@@ -1,0 +1,9 @@
+INDUSTRY KICK - STAGE 8.0 GUI V2
+GUI patch changes PluginEditor.cpp only.
+
+SHA256 hash of E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp:
+ed65d1d199cc69962696b01dd500046c5e259458e938f972af0c56bff6f47604
+CertUtil: -hashfile command completed successfully.
+
+Expected GUI V2 SHA256:
+ed65d1d199cc69962696b01dd500046c5e259458e938f972af0c56bff6f47604

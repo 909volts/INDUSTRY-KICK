@@ -1,0 +1,28 @@
+INDUSTRY KICK V2 — STAGE 6.5 VALIDATION FIX
+
+STAGE 6.4 EVIDENCE
+- Approved-A envelope parity: PASS 5/5.
+- 44.1/48/96 kHz parity: PASS.
+- Buffer 64/256/1024 parity: PASS.
+- Block invariance: PASS.
+- Repeatability: PASS.
+- Sample-accurate onset: PASS.
+- Family routing separation: PASS.
+
+WHY THE GATE STILL FAILED
+The generic technical test used the arithmetic mean of the complete one-shot
+as a DC-offset test. That is invalid for asymmetric/clipped transient events
+and rejected almost every non-RAVE preset even though sonic parity passed.
+
+STAGE 6.5
+- Whole-event mean is reported but no longer used as a DC failure criterion.
+- Persistent DC/runaway tail is tested after decay at 3.5-4.0 seconds:
+  tail RMS < -50 dBFS and abs(tail mean) < 1e-4.
+- Adds 650-750 ms envelope parity to the user-approved A anchors.
+- Applies residual safety to all 50 factory presets and 25 randomizer trials.
+- DSP, preset values and parameter IDs are unchanged.
+
+STATUS BEFORE TARGET RUN
+Patch static checks: PASS
+DspSmoke Stage 6.5: NOT TESTED
+VST3 Release: NOT TESTED

@@ -1,0 +1,3 @@
+SHA256 hash of E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Tests\DspSmoke.cpp:
+be4ab584dd272318d4f48572fd5327ba3686a111be3e22443738beda919a4251
+CertUtil: -hashfile command completed successfully.

@@ -1,0 +1,18 @@
+MSBuild version 17.14.51+25f168cee for .NET Framework
+
+  Checking File Globs
+  KICKCRAFTER_rc_lib.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_rc_lib.dir\Release\KICKCRAFTER_rc_lib.lib
+  KICKCRAFTERAssets.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\Release\KICKCRAFTERAssets.lib
+  KICKCRAFTER.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_artefacts\Release\INDUSTRY KICK_SharedCode.lib
+  Building Custom Rule E:/909Volts/Vsts/INDUSTRY KICK 1.0 by 909Volts/Project/CMakeLists.txt
+  juce_audio_plugin_client_AAX.cpp
+  juce_audio_plugin_client_AAX_utils.cpp
+  juce_audio_plugin_client_ARA.cpp
+  juce_audio_plugin_client_LV2.cpp
+  juce_audio_plugin_client_Standalone.cpp
+  juce_audio_plugin_client_Unity.cpp
+  juce_audio_plugin_client_VST2.cpp
+  juce_audio_plugin_client_VST3.cpp
+  Generating code
+  Finished generating code
+  KICKCRAFTER_Standalone.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_artefacts\Release\Standalone\INDUSTRY KICK.exe

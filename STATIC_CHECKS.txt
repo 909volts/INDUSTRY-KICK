@@ -1,0 +1,13 @@
+targeted only: PASS
+no VST3: PASS
+no Standalone: PASS
+no clean-first: PASS
+accepts Stage71/102/103 known production states: PASS
+does not require old SafetyProbe identity: PASS
+backs up current SafetyProbe: PASS
+restores exact SafetyProbe: PASS
+50 HEAVY only: PASS
+same clamp threshold: PASS
+same peak threshold: PASS
+seven old failures explicit: PASS
+production Stage103 trim present: PASS

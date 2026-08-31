@@ -1,0 +1,6 @@
+faust: NOT_FOUND
+cmake: /usr/bin/cmake
+ninja: /usr/bin/ninja
+g++: /usr/bin/g++
+clang++: /usr/local/swift/usr/bin/clang++
+network_git_github: DNS_UNAVAILABLE (observed in isolated environment)

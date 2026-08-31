@@ -1,0 +1,6 @@
+family,safety_ceiling_exact_hit_pct,shape_error_0_30_db,shape_error_30_80_db,diagnosis
+ROUND,5.0958,0.241,0.84,Safety clamp heavily active; envelope otherwise close
+PUNCH,2.8146,1.266,1.464,Safety clamp active; attack/body contrast too extreme
+HARD,6.3354,-0.617,-0.118,Envelope close; unwanted JUCE ceiling clipping dominates
+INDUSTRIAL,10.9542,-0.151,0.183,Envelope close; strongest unwanted JUCE ceiling clipping
+RAVE,0.0042,4.142,2.569,Not a ceiling problem; core envelope is too front-loaded
