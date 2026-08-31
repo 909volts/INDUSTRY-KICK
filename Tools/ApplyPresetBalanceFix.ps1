@@ -29,7 +29,7 @@ if ($txt.Contains('{"Techno Nail", 1, 0, 53.489,0.7797,')) {
 } else {
     foreach ($p in $pairs) {
         $old = $p[0]; $new = $p[1]
-        $c = ($txt.Split([string]$old, [System.StringSplitOptions]::None)).Count - 1
+        $c = ([regex]::Matches($txt, [regex]::Escape($old))).Count
         if ($c -ne 1) { throw "REPLACEMENT_NOT_UNIQUE_OR_MISSING found=$c : $old" }
         $txt = $txt.Replace($old, $new)
     }

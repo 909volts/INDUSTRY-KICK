@@ -1,0 +1,553 @@
+MSBuild version 17.14.51+25f168cee for .NET Framework
+
+  Checking File Globs
+  KICKCRAFTER_DspSmoke_rc_lib.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke_rc_lib.dir\Release\KICKCRAFTER_DspSmoke_rc_lib.lib
+  KICKCRAFTERAssets.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\Release\KICKCRAFTERAssets.lib
+  FaustKickEngine.cpp
+  PluginEditor.cpp
+  PluginProcessor.cpp
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,114): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,97): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,80): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,133): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,116): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,99): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,82): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,125): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,108): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,91): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,74): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,101): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,84): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,99): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,82): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,88): warning C4100: 'sf_zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,66): warning C4100: 'filename': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,47): warning C4100: 'label': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,114): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,114): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,77): warning C4100: 'val': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,97): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,97): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,80): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,80): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,60): warning C4100: 'key': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,133): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,133): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,116): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,99): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,116): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,82): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,99): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,82): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,125): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,125): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,108): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,108): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,91): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,91): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,74): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,74): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,101): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,101): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,84): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,84): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,99): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,99): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,82): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,82): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,88): warning C4100: 'sf_zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,88): warning C4100: 'sf_zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,66): warning C4100: 'filename': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,66): warning C4100: 'filename': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,47): warning C4100: 'label': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,47): warning C4100: 'label': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,77): warning C4100: 'val': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,77): warning C4100: 'val': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,60): warning C4100: 'key': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,60): warning C4100: 'key': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(856,31): warning C4100: 'count': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,108): warning C4100: 'writes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,94): warning C4100: 'reads': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,75): warning C4100: 'size_bytes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,62): warning C4100: 'size': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,49): warning C4100: 'type': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,35): warning C4100: 'name': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,60): warning C4100: 'outputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,40): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(856,31): warning C4100: 'count': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,108): warning C4100: 'writes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,94): warning C4100: 'reads': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,75): warning C4100: 'size_bytes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,62): warning C4100: 'size': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,49): warning C4100: 'type': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,35): warning C4100: 'name': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,60): warning C4100: 'outputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,40): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1085,36): warning C4100: 'sample_rate': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(856,31): warning C4100: 'count': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1107,43): warning C4100: 'fpsr_aux': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,108): warning C4100: 'writes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,94): warning C4100: 'reads': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,75): warning C4100: 'size_bytes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,62): warning C4100: 'size': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,49): warning C4100: 'type': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,35): warning C4100: 'name': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,60): warning C4100: 'outputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1085,36): warning C4100: 'sample_rate': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,40): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1107,43): warning C4100: 'fpsr_aux': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1085,36): warning C4100: 'sample_rate': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1107,43): warning C4100: 'fpsr_aux': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
+      see declaration of 'dsp::compute'
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
+      see declaration of 'dsp::compute'
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
+      see declaration of 'dsp::compute'
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,56): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,56): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,56): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(505,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(505,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(505,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(505,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(505,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(505,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,89): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,89): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,89): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,89): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,89): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,63): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,63): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,63): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,63): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(504,63): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(508,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(508,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(508,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(508,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(508,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(508,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,98): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,98): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,98): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,98): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,98): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,72): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,72): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,72): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,72): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(507,72): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,57): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,57): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,57): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,57): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,57): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(542,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(548,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(548,35): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(548,35): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(548,35): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(548,35): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(548,35): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,62): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,62): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,62): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,62): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,62): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,42): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,42): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,42): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,42): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(547,42): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(552,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(552,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(552,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(552,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(676,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(676,33): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(676,33): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(676,33): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(676,33): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(676,33): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,50): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,50): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,50): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,50): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,50): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,29): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,29): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,29): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,29): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(675,29): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(718,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(718,35): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(718,35): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(718,35): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(718,35): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(718,35): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,60): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,60): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,60): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,60): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,60): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,31): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,31): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,31): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,31): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(717,31): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,72): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,72): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,72): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,72): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,72): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,50): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,50): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,50): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,50): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,50): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,33): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,33): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,33): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,33): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(779,33): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  KICKCRAFTER.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_artefacts\Release\INDUSTRY KICK_SharedCode.lib
+  DspSmoke.cpp
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,114): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,97): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,80): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,133): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,116): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,99): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,82): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,125): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,108): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,91): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(511,74): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,101): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(517,84): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,99): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(521,82): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,88): warning C4100: 'sf_zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,66): warning C4100: 'filename': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,47): warning C4100: 'label': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,77): warning C4100: 'val': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,60): warning C4100: 'key': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(856,31): warning C4100: 'count': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,108): warning C4100: 'writes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,94): warning C4100: 'reads': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,75): warning C4100: 'size_bytes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,62): warning C4100: 'size': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,49): warning C4100: 'type': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,35): warning C4100: 'name': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,60): warning C4100: 'outputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,40): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1085,36): warning C4100: 'sample_rate': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1107,43): warning C4100: 'fpsr_aux': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
+      see declaration of 'dsp::compute'
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,56): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
+  (compiling source file '../Tests/DspSmoke.cpp')
+  
+  Generating code
+  Finished generating code
+  KICKCRAFTER_DspSmoke.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke_artefacts\Release\KICKCRAFTER_DspSmoke.exe
