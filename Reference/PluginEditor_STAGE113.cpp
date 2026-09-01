@@ -61,8 +61,15 @@ void KickcrafterAudioProcessorEditor::IndustrialLook::drawRotarySlider(
     g.fillPath(bezel);
         g.setColour(juce::Colour(0xff050607));
     g.strokePath(bezel, juce::PathStrokeType(2.2f));
-    g.setColour(juce::Colour(0x7a5a3016));
+        g.setColour(juce::Colour(0x7a5a3016));
     g.strokePath(bezel, juce::PathStrokeType(1.0f));
+    for (const float ra : { 0.7f, 2.4f, 4.2f })
+    {
+        juce::Path rustArc;
+        rustArc.addCentredArc(c.x, c.y, radius + 11.0f, radius + 11.0f, 0.0f, ra, ra + 0.5f, true);
+        g.setColour(juce::Colour(0x8a6a3a16));
+        g.strokePath(rustArc, juce::PathStrokeType(2.0f));
+    }
 
     for (const float lugAngle : { 0.0f,
                                   juce::MathConstants<float>::halfPi,
@@ -430,7 +437,8 @@ void KickcrafterAudioProcessorEditor::paint(juce::Graphics& g)
     if (backgroundImage.isValid())
         g.drawImage(backgroundImage, 0, 0, (int)baseW, (int)baseH,
                     0, 0, backgroundImage.getWidth(), backgroundImage.getHeight(), false);
-    g.setColour(juce::Colour(0x96050607));
+        // stage113j: lighter base overlay, background more visible
+    g.setColour(juce::Colour(0x50050607));
     g.fillRect(0.0f, 0.0f, baseW, baseH);
     // stage113b-proc: procedural industrial chassis (no external asset)
     {
@@ -586,14 +594,15 @@ void KickcrafterAudioProcessorEditor::paint(juce::Graphics& g)
         const juce::Rectangle<float> r(x, y, w, h);
         g.setColour(juce::Colour(0x90000000));
         g.fillRoundedRectangle(r.translated(5.0f, 6.0f), 3.0f);
-                g.setColour(juce::Colour(0xd822262a));
+                                // stage113j: panels more opaque for readability
+        g.setColour(juce::Colour(0xe022262a));
         g.fillRoundedRectangle(r, 3.0f);
-        g.setColour(juce::Colour(0xd8070809));
+        g.setColour(juce::Colour(0xe0070809));
         g.fillRoundedRectangle(r.reduced(3.0f), 2.0f);
 
-                juce::ColourGradient inner(masterPanel ? juce::Colour(0xc81b1717) : juce::Colour(0xc8171b1e),
+                                juce::ColourGradient inner(masterPanel ? juce::Colour(0xd81b1717) : juce::Colour(0xd8171b1e),
                                    x + 5.0f, y + 5.0f,
-                                   juce::Colour(0xc8090b0d), x + w, y + h, false);
+                                   juce::Colour(0xd8090b0d), x + w, y + h, false);
         g.setGradientFill(inner);
         g.fillRoundedRectangle(r.reduced(7.0f), 2.0f);
         g.setColour(juce::Colour(0xff42484b));
@@ -914,6 +923,75 @@ void KickcrafterAudioProcessorEditor::paint(juce::Graphics& g)
     g.setFont(juce::FontOptions("Consolas", 7.6f, juce::Font::bold));
     g.drawText("FAMILY DSP  >  BODY / SUB CONTROL  >  MASTER GLUE  //  FACTORY BANK",
                66, 860, 944, 14, juce::Justification::centred);
+        // stage113i-overlay: industrial objects over panels (heavy machine, with sense)
+    // stage113j: keep instruments crisp (no texture veil)
+    g.excludeClipRegion(juce::Rectangle<int>(1202, 130, 204, 142));
+    g.excludeClipRegion(juce::Rectangle<int>(1288, 713, 30, 116));
+    g.excludeClipRegion(juce::Rectangle<int>(455, 294, 235, 33));
+    g.setOpacity(0.30f);
+    if (backgroundImage.isValid())
+        g.drawImage(backgroundImage, 0, 0, (int)baseW, (int)baseH,
+                    0, 0, backgroundImage.getWidth(), backgroundImage.getHeight(), false);
+    g.setOpacity(1.0f);
+    {
+        juce::Rectangle<float> pipe(0.0f, baseH - 12.0f, baseW, 7.0f);
+        juce::ColourGradient pg(juce::Colour(0xff585e62), 0.0f, pipe.getY(),
+                                juce::Colour(0xff1e2226), 0.0f, pipe.getBottom(), false);
+        g.setGradientFill(pg);
+        g.fillRect(pipe);
+        for (float cx = 40.0f; cx < baseW; cx += 260.0f)
+        {
+            g.setColour(juce::Colour(0xff787e82));
+            g.fillRect(cx, pipe.getY() - 3.0f, 12.0f, pipe.getHeight() + 6.0f);
+            g.setColour(juce::Colour(0xff0a0c0d));
+            g.drawRect(cx, pipe.getY() - 3.0f, 12.0f, pipe.getHeight() + 6.0f, 1.0f);
+        }
+    }
+    {
+        const auto qb = [](float t, float p0, float p1, float p2)
+        {
+            const float u = 1.0f - t;
+            return u * u * p0 + 2.0f * u * t * p1 + t * t * p2;
+        };
+        g.setColour(juce::Colour(0xff565c60));
+        g.fillRoundedRectangle(4.0f, 100.0f, 16.0f, 10.0f, 2.0f);
+        for (int i = 0; i < 22; ++i)
+        {
+            const float t = (float)i / 21.0f;
+            const float px = qb(t, 12.0f, 30.0f, 15.0f);
+            const float py = qb(t, 110.0f, 300.0f, 500.0f);
+            const bool vert = (i % 2 == 0);
+            g.setColour(juce::Colour(0xff787e82));
+            g.drawEllipse(px - (vert ? 3.0f : 5.0f), py - (vert ? 6.0f : 3.5f),
+                          (vert ? 3.0f : 5.0f) * 2.0f, (vert ? 6.0f : 3.5f) * 2.0f, 1.6f);
+        }
+    }
+    {
+        juce::Rectangle<float> sign(baseW - 68.0f, 656.0f, 52.0f, 40.0f);
+        g.setColour(juce::Colour(0xffd7b414));
+        g.fillRoundedRectangle(sign, 3.0f);
+        g.setColour(juce::Colour(0xff141414));
+        g.drawRoundedRectangle(sign, 3.0f, 2.0f);
+        juce::Path bolt;
+        const float bx = sign.getCentreX();
+        bolt.startNewSubPath(bx - 3.0f, sign.getY() + 6.0f);
+        bolt.lineTo(bx + 5.0f, sign.getY() + 6.0f);
+        bolt.lineTo(bx + 1.5f, sign.getY() + 15.0f);
+        bolt.lineTo(bx + 6.0f, sign.getY() + 15.0f);
+        bolt.lineTo(bx - 4.0f, sign.getY() + 30.0f);
+        bolt.lineTo(bx - 0.5f, sign.getY() + 18.0f);
+        bolt.lineTo(bx - 5.0f, sign.getY() + 18.0f);
+        bolt.closeSubPath();
+        g.setColour(juce::Colour(0xff141414));
+        g.fillPath(bolt);
+        g.setColour(juce::Colour(0xffd7b414));
+        g.setFont(juce::FontOptions("Consolas", 7.0f, juce::Font::bold));
+        g.drawText("HIGH VOLTAGE", sign.getX() - 14.0f, sign.getBottom() + 2.0f, 80.0f, 10.0f,
+                   juce::Justification::centred);
+    }
+    g.setColour(juce::Colour(0xffe51735));
+    g.setFont(juce::FontOptions("Consolas", 9.0f, juce::Font::bold));
+    g.drawText("BUILD 11.3I", 220.0f, 878.0f, 140.0f, 14.0f, juce::Justification::centredLeft);
 }
 
 void KickcrafterAudioProcessorEditor::resized()

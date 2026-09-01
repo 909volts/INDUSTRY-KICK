@@ -3,9 +3,9 @@ MSBuild version 17.14.51+25f168cee for .NET Framework
   Checking File Globs
   KICKCRAFTER_DspSmoke_rc_lib.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke_rc_lib.dir\Release\KICKCRAFTER_DspSmoke_rc_lib.lib
   KICKCRAFTERAssets.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\Release\KICKCRAFTERAssets.lib
+  PluginProcessor.cpp
   FaustKickEngine.cpp
   PluginEditor.cpp
-  PluginProcessor.cpp
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginProcessor.cpp')
   
@@ -57,11 +57,20 @@ E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryK
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,88): warning C4100: 'sf_zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginProcessor.cpp')
   
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,66): warning C4100: 'filename': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginProcessor.cpp')
   
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,114): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+  
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(527,47): warning C4100: 'label': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,97): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,77): warning C4100: 'val': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginProcessor.cpp')
@@ -69,20 +78,11 @@ E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryK
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,60): warning C4100: 'key': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginProcessor.cpp')
   
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginEditor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,114): warning C4100: 'fmax': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginEditor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,97): warning C4100: 'fmin': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginEditor.cpp')
-  
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,80): warning C4100: 'init': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginEditor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(507,133): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginEditor.cpp')
@@ -137,39 +137,6 @@ E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryK
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginEditor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(856,31): warning C4100: 'count': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,108): warning C4100: 'writes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,94): warning C4100: 'reads': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,75): warning C4100: 'size_bytes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,62): warning C4100: 'size': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,49): warning C4100: 'type': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,35): warning C4100: 'name': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,60): warning C4100: 'outputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,40): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1085,36): warning C4100: 'sample_rate': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
-  
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1107,43): warning C4100: 'fpsr_aux': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
@@ -237,10 +204,38 @@ E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryK
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(530,42): warning C4100: 'zone': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
   
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(856,31): warning C4100: 'count': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginProcessor.cpp')
-      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
-      see declaration of 'dsp::compute'
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,108): warning C4100: 'writes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,94): warning C4100: 'reads': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,75): warning C4100: 'size_bytes': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,62): warning C4100: 'size': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,49): warning C4100: 'type': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,35): warning C4100: 'name': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,60): warning C4100: 'outputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,40): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1085,36): warning C4100: 'sample_rate': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1107,43): warning C4100: 'fpsr_aux': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(856,31): warning C4100: 'count': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/PluginEditor.cpp')
@@ -296,16 +291,16 @@ E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryK
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(867,35): warning C4100: 'name': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
   
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginEditor.cpp')
-      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
-      see declaration of 'dsp::compute'
-  
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,60): warning C4100: 'outputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(978,40): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginProcessor.cpp')
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
+      see declaration of 'dsp::compute'
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(1085,36): warning C4100: 'sample_rate': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
@@ -314,151 +309,172 @@ E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryK
   (compiling source file '../Source/FaustKickEngine.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+  (compiling source file '../Source/PluginEditor.cpp')
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
+      see declaration of 'dsp::compute'
+  
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,15): warning C4373: 'IndustryKickFaustDSP::compute': virtual function overrides 'dsp::compute', previous versions of the compiler did not override when parameters only differed by const/volatile qualifiers [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
       E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(993,22):
       see declaration of 'dsp::compute'
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,56): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginEditor.cpp')
+  (compiling source file '../Source/PluginProcessor.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,56): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-  (compiling source file '../Source/PluginProcessor.cpp')
+  (compiling source file '../Source/PluginEditor.cpp')
   
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(2972,56): warning C4100: 'inputs': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   (compiling source file '../Source/FaustKickEngine.cpp')
   
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(577,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(577,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(577,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(577,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(577,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(577,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,89): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,89): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,89): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,89): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,89): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,63): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,63): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,63): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,63): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(576,63): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(580,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(580,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(580,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(580,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(580,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(580,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,98): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,98): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,98): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,98): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,98): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,72): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,72): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,72): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,72): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(579,72): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,57): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,57): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,57): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,57): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,57): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(614,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(620,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(620,35): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(620,35): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(620,35): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(620,35): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(620,35): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,62): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,62): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,62): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,62): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,62): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,42): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,42): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,42): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,42): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(619,42): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(624,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(624,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(624,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(624,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(758,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(758,33): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(758,33): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(758,33): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(758,33): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(758,33): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,50): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,50): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,50): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,50): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,50): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,29): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,29): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,29): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,29): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(757,29): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(781,15): warning C4456: declaration of 'sx' hides previous local declaration [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(420,17):
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(585,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(585,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(585,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(585,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(585,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(585,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,89): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,89): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,89): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,89): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,89): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,63): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,63): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,63): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,63): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(584,63): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(588,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(588,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(588,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(588,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(588,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(588,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,98): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,98): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,98): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,98): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,98): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,72): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,72): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,72): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,72): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(587,72): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,57): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,57): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,57): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,57): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,57): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,37): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,37): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,37): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,37): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(623,37): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(629,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(629,35): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(629,35): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(629,35): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(629,35): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(629,35): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,62): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,62): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,62): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,62): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,62): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,42): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,42): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,42): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,42): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(628,42): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(633,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(633,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(633,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(633,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(767,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(767,33): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(767,33): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(767,33): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(767,33): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(767,33): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,50): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,50): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,50): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,50): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,50): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,29): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,29): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,29): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,29): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(766,29): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(790,15): warning C4456: declaration of 'sx' hides previous local declaration [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(427,17):
       see declaration of 'sx'
   
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(783,15): warning C4456: declaration of 'sy' hides previous local declaration [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(421,17):
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(792,15): warning C4456: declaration of 'sy' hides previous local declaration [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+      E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(428,17):
       see declaration of 'sy'
   
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(810,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(810,35): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(810,35): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(810,35): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(810,35): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(810,35): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,60): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,60): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,60): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,60): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,60): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,31): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,31): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,31): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,31): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(809,31): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,72): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,72): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,72): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,72): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,72): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,50): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,50): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,50): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,50): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,50): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,33): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,33): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,33): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,33): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(867,33): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,73): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,73): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,73): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,73): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,73): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,51): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,51): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,51): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,51): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
-E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(904,51): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(819,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(819,35): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(819,35): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(819,35): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(819,35): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(819,35): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,60): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,60): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,60): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,60): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,60): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,31): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,31): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,31): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,31): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(818,31): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,72): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,72): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,72): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,72): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,72): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,50): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,50): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,50): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,50): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,50): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,33): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,33): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,33): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,33): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(876,33): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,73): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,73): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,73): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,73): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,73): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,51): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,51): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,51): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,51): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(913,51): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,74): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,74): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,74): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,74): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,74): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,48): warning C4244: 'argument': conversion from 'ValueType' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,48): warning C4244:         with [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,48): warning C4244:         [ [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,48): warning C4244:             ValueType=float [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(989,48): warning C4244:         ] [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(994,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(994,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(994,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
+E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\Source\PluginEditor.cpp(994,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER.vcxproj]
   KICKCRAFTER.vcxproj -> E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_artefacts\Release\INDUSTRY KICK_SharedCode.lib
   DspSmoke.cpp
 E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\generated\IndustryKickFaustDSP.h(503,131): warning C4100: 'step': unreferenced parameter [E:\909Volts\Vsts\INDUSTRY KICK 1.0 by 909Volts\Project\build\KICKCRAFTER_DspSmoke.vcxproj]
