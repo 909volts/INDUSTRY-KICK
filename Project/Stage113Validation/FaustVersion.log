@@ -1,0 +1,22 @@
+FAUST Version 2.85.9
+Embedded backends: 
+   DSP to AssemblyScript
+   DSP to C
+   DSP to C++
+   DSP to Cmajor
+   DSP to Codebox
+   DSP to CSharp
+   DSP to DLang
+   DSP to FIR
+   DSP to Interpreter
+   DSP to Java
+   DSP to JAX
+   DSP to Julia
+   DSP to JSFX
+   DSP to LLVM IR
+   DSP to old C++
+   DSP to Rust
+   DSP to SDF3
+   DSP to WebAssembly (wast/wasm)
+Build with LLVM version 17.0.6
+Copyright (C) 2002-2026, GRAME - Centre National de Creation Musicale. All rights reserved. 
